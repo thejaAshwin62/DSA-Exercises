@@ -2,6 +2,10 @@ package Queue;
 
 public class queue {
 
+    public queue(){
+
+    }
+
     private Node first;
     private Node last;
     private int length;

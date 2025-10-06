@@ -36,5 +36,9 @@ public class Main {
 //        System.out.println( linkedList.findMiddleNode().value);
 //           linkedList.printValue();
 
+
+
+
+
     }
 }
